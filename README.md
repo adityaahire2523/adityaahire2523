@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to my GitHub profile
+## I am an undergraduate student at IIT Bombay with interest in Full Stack Web Development, Machine Learning, AI, Data Science and App Development. Checkout my account for more details about my projects.
+Apart from my technical interests, I also like Badminton, Wall Climbing, Basketball and Photography
+
 
 <!--
 **adityaahire2523/adityaahire2523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
