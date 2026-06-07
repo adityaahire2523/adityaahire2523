@@ -1,6 +1,6 @@
-## Welcome to my GitHub profile
+# Welcome to my GitHub profile
 ## I am an undergraduate student at IIT Bombay with interest in Full Stack Web Development, Machine Learning, AI, Data Science and App Development. Checkout my account for more details about my projects.
-Apart from my technical interests, I also like Badminton, Wall Climbing, Basketball and Photography
+### Apart from my technical interests, I also like Badminton, Wall Climbing, Basketball and Photography
 
 
 <!--
